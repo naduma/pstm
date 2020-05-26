@@ -1,0 +1,17 @@
+{
+  "name": "pstm",
+  "description": "private short-term memory",
+  "repository": "https://github.com/naduma/pstm",
+  "success_url": "/",
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
